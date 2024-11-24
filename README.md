@@ -11,7 +11,8 @@ Passionate about crafting innovative mobile applications and building robust, sc
 *   🧠  I'm learning Advanced concepts in Rust frameworks, such as Rocket for building web applications and Actix for high-performance web services. Exploring these frameworks to expand my backend development skill set and build more efficient, reliable systems.
 *   🤝  I'm open to collaborating on Interesting projects involving mobile and web app development, particularly those that utilize the MERN/MEVN stack or focus on open-source contributions.
 *   ⚡  When I’m not coding, I enjoy sharing tech insights, mentoring junior developers, and engaging in creative tech challenges. Also, I might be secretly Spiderman... but don't tell anyone!
-*   <a href="https://www.github.com/baabale" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/baabale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/baabale" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/baabale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
